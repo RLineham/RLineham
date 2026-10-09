@@ -5,4 +5,4 @@ I combine this analytical foundation with extensive hands-on experience troubles
 
 ## Portfolio
 A collection of projects and labs completed during the Google Cybersecurity Certificate documenting my hands-on experience with conducting security audits and network traffic analysis, using tools and operating systems such as SIEMs and Linux, as well as evidence of using programming languages such as SQL and Python.
-- [Security Audit](https://github.com/hams99ry/Security-Audit)
+- [Security Audit](https://github.com/RLineham/Security-Audit)
